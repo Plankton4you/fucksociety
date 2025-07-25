@@ -79,7 +79,7 @@ pkg install git
 pkg install python
 
 # Clone Project
-git clone https://github.com/Plankton4you/fucksociety
+git clone https://github.com/Plankton4you/fucksociety.git
 
 # Change Directory
 cd fucksociety
